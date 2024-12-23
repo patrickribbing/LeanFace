@@ -1,0 +1,3 @@
+<layout id="LeanFace">
+    <label id="BatteryLabel" x="center" y="bottom" font="Graphics.FONT_GLANCE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+</layout>
